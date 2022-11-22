@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a rel="me" href="https://home.social/@hugobloem">Mastodon</a>
 
 ![](https://hit.yhype.me/github/profile?user_id=42470993)
 <!--
