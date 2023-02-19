@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a rel="nofollow me" href="https://home.social/@hugobloem">Mastodon</a>
-
 ![](https://hit.yhype.me/github/profile?user_id=42470993)
 <!--
 **hugobloem/hugobloem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
