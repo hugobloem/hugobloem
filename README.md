@@ -9,7 +9,7 @@ I have a PhD in Geophysics where I worked on Seismic Imaging methods using Machi
 - [esp-ha-speech](https://github.com/hugobloem/esp-ha-speech): Proof-of-concept using speech recognition on a low-power microcontroller.
 
 #### Trivia
-- 🌱 I’m currently low-level embedded programming
+- 🌱 I’m currently learning low-level embedded programming
 - 👯 I’m looking to collaborate on anything Home Assistant or Geophysics
 - 📫 How to reach me: send me a message on [LinkedIn](https://linkedin.com/in/hugobloem) or open an issue. 
 - ⚡ Fun fact: The Dutch flag 🇳🇱 is the oldest tri-colour in the world. 
