@@ -8,7 +8,7 @@ I have a PhD in Geophysics where I worked on Seismic Imaging methods using Machi
 - [Microsoft TTS using Wyoming](https://github.com/hugobloem/wyoming-microsoft-stt): Text-to-speech processing using Microsoft Azure for Home Assistant and Rhasspy.
 - [esp-ha-speech](https://github.com/hugobloem/esp-ha-speech): Proof-of-concept using speech recognition on a low-power microcontroller.
 
-#### Trivia
+#### Trivia:
 - 🌱 I’m currently learning low-level embedded programming
 - 👯 I’m looking to collaborate on anything Home Assistant or Geophysics
 - 📫 How to reach me: send me a message on [LinkedIn](https://linkedin.com/in/hugobloem) or open an issue. 
